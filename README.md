@@ -1,1 +1,1 @@
-# image_mosaic_CV
+# Image Mosaic Project
